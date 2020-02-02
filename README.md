@@ -1,5 +1,7 @@
 # What's SplitBot?
 SplitBot is a conversational chatbot using SplitWise API. Splitwise is a free tool for friends added in group on Zulip to track bills and other shared expenses, so that everyone can get their bills splited according to their share. Bot built using OAuth, flask, SplitWise API, Zulip API and other services.
+<hr>
+Check out the working video: https://www.youtube.com/watch?v=9dZfQWiVs6I&feature=youtu.be
 
 # Features
 Following use cases are supported by our bot
